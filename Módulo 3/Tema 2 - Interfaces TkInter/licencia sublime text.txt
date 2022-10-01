@@ -1,0 +1,10 @@
+Download & Install Sublime Text 3.2.2 Build 3211
+Visit https://hexed.it/
+Open file select sublime_text.exe
+Offset 0x8545: Original 84 -> 85
+Offset 0x08FF19: Original 75 -> EB
+Offset 0x1932C7: Original 75 -> 74 (remove UNREGISTERED in title bar, so no need to use a license)
+Export File and save it to location you want
+Backup sublime_text.exe file (just rename)
+Copy sublime_text.exe modified to directory Sublime Text 3
+Happy Coding :)
